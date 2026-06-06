@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <script>
+      (function() {
+        try {
+          var originalFetch = window.fetch;
+          if (originalFetch) {
+            var currentFetch = originalFetch;
+            Object.defineProperty(window, 'fetch', {
+              get: function() {
+                return currentFetch;
+              },
+              set: function(val) {
+                currentFetch = val;
+              },
+              configurable: true,
+              enumerable: true
+            });
+          }
+        } catch (e) {
+          console.warn('Sandbox fetch setter polyfill warning:', e);
+        }
+      })();
+    </script>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Vntera Tools - Free Web Tools, Converters & Developer Utilities</title>
+    <meta name="description" content="Discover Vntera Tools, the speed-optimized web tools catalog hosted on tools.vntera.com by Vntera (founder: vntera.com), featuring secure password generators, converters, sitemap utilities, and automated AI assistance." />
+    <meta name="keywords" content="free web tools, developer utilities, formatters, calculators, SEO analyzer, base64 encoder, robots.txt generator, color palette WCAG" />
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>
+
