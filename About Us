@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About Us - Tools.Vntera.com</title>
+    <meta name="description" content="Learn more about Tools.Vntera.com, a free online platform offering hundreds of useful web tools for productivity, PDF processing, SEO, development, and more.">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.8;
+            max-width: 1000px;
+            margin: 0 auto;
+            padding: 40px 20px;
+            color: #333;
+            background: #fff;
+        }
+
+        h1 {
+            color: #222;
+            margin-bottom: 20px;
+        }
+
+        h2 {
+            margin-top: 30px;
+            color: #444;
+        }
+
+        ul {
+            padding-left: 20px;
+        }
+
+        .container {
+            background: #fff;
+            padding: 20px;
+        }
+
+        a {
+            color: #0066cc;
+            text-decoration: none;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <h1>About Us</h1>
+
+    <p>
+        Welcome to <strong>Tools.Vntera.com</strong>, your destination for free online tools designed to simplify everyday tasks and improve productivity.
+    </p>
+
+    <p>
+        Our platform provides a growing collection of web-based tools that help users work with PDFs, images, text, calculations, file conversions, SEO tasks, and many other digital needs directly from their browser.
+    </p>
+
+    <h2>Our Mission</h2>
+
+    <p>
+        Our mission is to make useful online tools accessible to everyone through a fast, simple, and user-friendly platform. We believe that powerful digital tools should be available without complicated software installations or expensive subscriptions.
+    </p>
+
+    <h2>What We Offer</h2>
+
+    <ul>
+        <li>PDF Tools</li>
+        <li>Image Editing & Conversion Tools</li>
+        <li>Text & Writing Utilities</li>
+        <li>SEO Tools</li>
+        <li>Developer Tools</li>
+        <li>Calculators & Converters</li>
+        <li>Productivity Tools</li>
+        <li>File Management Tools</li>
+        <li>And hundreds of additional online utilities</li>
+    </ul>
+
+    <h2>Why Choose Tools.Vntera.com?</h2>
+
+    <ul>
+        <li>Free to use</li>
+        <li>No software installation required</li>
+        <li>Fast and responsive performance</li>
+        <li>Works on desktop, tablet, and mobile devices</li>
+        <li>Regularly updated with new tools and features</li>
+    </ul>
+
+    <h2>Our Vision</h2>
+
+    <p>
+        We aim to build one of the largest collections of online tools available on the web, helping users complete tasks quickly, efficiently, and securely from a single platform.
+    </p>
+
+    <h2>Contact Us</h2>
+
+    <p>
+        If you have any questions, suggestions, business inquiries, or feedback, please feel free to contact us.
+    </p>
+
+    <p>
+        Website: tools.vntera.com
+    </p>
+
+    <p>
+        Thank you for using Tools.Vntera.com.
+    </p>
+</div>
+
+</body>
+</html>
